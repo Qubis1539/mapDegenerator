@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/soft_circle.png-ebb9bd9750d302176d4af6854709ca0a.image"
+
+[deps]
+
+source_file="res://textures/brushes/soft_circle.png"
+dest_files=[ "res://.import/soft_circle.png-ebb9bd9750d302176d4af6854709ca0a.image" ]
+
+[params]
+
